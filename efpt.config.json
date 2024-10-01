@@ -63,7 +63,19 @@
          "ObjectType": 0
       },
       {
+         "Name": "[dbo].[TblModulesModel]",
+         "ObjectType": 0
+      },
+      {
          "Name": "[dbo].[GetAllUserDetails]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetUserLogIn]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[sp_timelogs]",
          "ObjectType": 1
       }
    ],
